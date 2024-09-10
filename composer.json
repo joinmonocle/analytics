@@ -1,0 +1,16 @@
+{
+    "name": "monocle/analytics",
+    "description": "Add user analytics and events using the monocle anayltics",
+    "autoload": {
+        "psr-4": {
+            "Monocle\\Analytics\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tony Lea",
+            "email": "tnylea@gmail.com"
+        }
+    ],
+    "require": {}
+}
